@@ -1,0 +1,1 @@
+Official PyTorch / Ultralytics implementation of LWG-Det (Lightweight Wavelet-Gated Detector, ~2.6 M params) with a learnable Haar-wavelet front-end and frequency-gated state-space mixer (FG-GDPR-P5). Release includes the Table-3 four-group ablation train+eval summaries and the Table 4/5 final LWG-Det training + SAHI–TTA–WBF full-image inference artifacts for reproducibility.
